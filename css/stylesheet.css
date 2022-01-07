@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 80%;
+    height: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+header img {
+    display: block;
+    width: 50%;
+    height: 50%;  
+}
+
+
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
