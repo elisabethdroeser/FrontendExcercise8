@@ -51,6 +51,11 @@ h2 {
     background-color: #df6acf;
 }
 
+.list-group {
+    margin-left: auto;
+    margin-right: auto; 
+}
+
 footer {
     background-color: #df6acf;
     height: 10%;
