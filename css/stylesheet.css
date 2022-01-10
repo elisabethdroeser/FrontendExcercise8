@@ -1,6 +1,8 @@
 body {
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
+    font-family: 'montserrat', sans-serif, verdana;
 }
 
 header {
@@ -10,16 +12,17 @@ header {
     text-align: center;
 }
 
-header img {
-    display: block;
-    width: 50%;
-    height: 50%;  
+li {
+    padding: 10px;
 }
-
-
 
 .container {
     width: 80%;
     margin: 0 auto;
     text-align: center;
+}
+
+footer {
+    background-color: pink;
+    color: black;
 }
