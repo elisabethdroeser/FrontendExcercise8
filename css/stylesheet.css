@@ -32,7 +32,6 @@ li {
     text-align: center;
 }
 
-
 .container img {
     display: block;
     margin-left: auto;
@@ -48,8 +47,12 @@ h2 {
     padding: 10px;
 }
 
+.btn {
+    background-color: #df6acf;
+}
+
 footer {
-    background-color: #d849c5;
+    background-color: #df6acf;
     height: 10%;
     color: black;
     text-align: center;
